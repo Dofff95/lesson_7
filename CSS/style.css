@@ -117,9 +117,11 @@ ul>li{
 
 .section_eupforia {
     color: #807D7E;
+    margin-bottom: 50px;
 }
 .conteiner_euph{
     border: 5px dashed rebeccapurple;
+    border-radius: 20px;
 }
 .euphoria_title {
     color: #3C4242;
@@ -171,9 +173,14 @@ ul>li{
     letter-spacing: 0.4px;
 }
 
+
+
+
+
+
 .what_conteiner {
     display: inline-block;
-    font-family: Cormorant Infant;
+    font-family: Cormorant Infant, sans-serif;
     max-width: 503px;
     margin: 0;
 }
@@ -213,7 +220,11 @@ ul>li{
     padding-right: 15px;
     padding-top: 15px;
 }
-
+.we_do_conteiner{
+    border: 2px solid black;
+    border-bottom-left-radius: 15%;
+    border-top-right-radius: 15%;
+}
 
 
 
